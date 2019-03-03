@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "417449276100",
+    "firebase_url": "https://sparcar-a2a35.firebaseio.com",
+    "project_id": "sparcar-a2a35",
+    "storage_bucket": "sparcar-a2a35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417449276100:android:3df9d4d475bc306b",
+        "android_client_info": {
+          "package_name": "sam.has.sparcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417449276100-4ru975sk0ohu9rl87385t8aq4uhtn2ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sam.has.sparcar",
+            "certificate_hash": "d8effc3bd28e68e200f2d974de0ec30ef27b072c"
+          }
+        },
+        {
+          "client_id": "417449276100-j33n30hgfkeup37l3aml6k28bd8btn14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsWghcY-12tyQThM1u6tskdhQUlBgkiWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417449276100-j33n30hgfkeup37l3aml6k28bd8btn14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
